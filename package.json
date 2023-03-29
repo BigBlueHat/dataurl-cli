@@ -1,0 +1,14 @@
+{
+  "name": "dataurl-cli",
+  "version": "0.0.0",
+  "description": "Convert files to dataurls from the command line.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BigBlueHat <byoung@bigbluehat.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "dataurl": "^0.1.0"
+  }
+}
