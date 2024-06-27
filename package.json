@@ -9,6 +9,8 @@
   "author": "BigBlueHat <byoung@bigbluehat.com>",
   "license": "Apache-2.0",
   "dependencies": {
-    "dataurl": "^0.1.0"
+    "dataurl": "^0.1.0",
+    "file-type": "^19.0.0",
+    "mime-types": "^2.1.35"
   }
 }
